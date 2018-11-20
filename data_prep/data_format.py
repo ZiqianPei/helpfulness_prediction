@@ -1,6 +1,8 @@
 """
 Format the data into *FastText training data format
 """
+import sys
+sys.path.append("..")
 import config
 import random
 
